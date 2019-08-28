@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contactkit</string>
+    <string name="button_addContactkit">Add Contact</string>
+    <string name="button_saveContactkit"> Save Contact </string>
+    <string name="button_addImage"> Add Image </string>
+    <string name="button_changeImage">Change Image</string>
+    <string name="hint_contactkitTitle">Contact Title</string>
+    <string name="hint_contactkitNumber">Contact Number</string>
+    <string name="hint_contactkitNote">Contact Note</string>
+    <string name="menu_addContactkit">Add</string>
+    <string name="menu_cancelContactkit">Cancel</string>
+    <string name="message_enter_title"> Please enter a Contact Title </string>
+    <string name="select_contactkit_image">Select contact image</string>
+    <string name="menu_deleteContactkit">Delete</string>
+</resources>
